@@ -1,0 +1,6 @@
+D:\code\asp\SportsStore\Domain\bin\Debug\Domain.dll.config
+D:\code\asp\SportsStore\Domain\bin\Debug\Domain.dll
+D:\code\asp\SportsStore\Domain\bin\Debug\Domain.pdb
+D:\code\asp\SportsStore\Domain\obj\Debug\Domain.csprojResolveAssemblyReference.cache
+D:\code\asp\SportsStore\Domain\obj\Debug\Domain.dll
+D:\code\asp\SportsStore\Domain\obj\Debug\Domain.pdb
